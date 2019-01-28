@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoundBoardCreator</string>
+    <string name="add_button_text">Add a sound</string>
+    <string name="sound_edittext_text">Nom du son</string>
+</resources>
